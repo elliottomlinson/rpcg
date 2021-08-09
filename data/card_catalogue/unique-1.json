@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Blind everyone within 3 metres with bean juice.",
-        "passive": null
+        "cast": "Blind everyone within 3 metres with bean juice.",
+        "hand": null
       },
       "flavour": "Industrial Grade",
       "image": "res/card/art/illustration/Bean Blast.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a cast-steel anvil into existence above target character's head.",
-        "passive": null
+        "cast": "Summon a cast-steel anvil into existence above target character's head.",
+        "hand": null
       },
       "flavour": "meep meep",
       "image": "res/card/art/illustration/Anvil Drop.png"
@@ -31,8 +31,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose a visible article of clothing. A snake appears inside of it.",
-        "passive": null
+        "cast": "Choose a visible article of clothing. A snake appears inside of it.",
+        "hand": null
       },
       "flavour": "\"Always drink upstream from the herd\" - The Sheriff",
       "image": "res/card/art/illustration/Sheriff's Roundup.png"
@@ -44,8 +44,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Throw a pair of bola around a visible target",
-        "passive": null
+        "cast": "Throw a pair of bola around a visible target",
+        "hand": null
       },
       "flavour": "\"Bolas are excellent for capturing large mammals, like my portly friend Steve\"",
       "image": "res/card/art/illustration/Ancient Throwing Bola.png"
@@ -57,8 +57,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Put a large object or willing NPC in your hand.",
-        "passive": null
+        "cast": "Put a large object or willing NPC in your hand.",
+        "hand": null
       },
       "flavour": "Brilliant for barging, barrowing, borrowing, bearing, busing, and bumming.",
       "image": "res/card/art/illustration/Rolling Cart.png"
@@ -70,8 +70,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Cast a handful of sand and pocket lint into the air before you.",
-        "passive": null
+        "cast": "Cast a handful of sand and pocket lint into the air before you.",
+        "hand": null
       },
       "flavour": "Good for blinding a close range target.",
       "image": "res/card/art/illustration/Empouched Earth.png"
@@ -83,8 +83,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
-        "passive": null
+        "cast": "Choose a Blue or green in your hand. All cards in your hand become copies of that card.",
+        "hand": null
       },
       "flavour": "Fax is short for facsimile, meaning \"make similar\".",
       "image": "res/card/art/illustration/Card Printer.png"
@@ -96,8 +96,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target visible character will take 25 damage the next time they rest.",
-        "passive": null
+        "cast": "Target visible character will take 25 damage the next time they rest.",
+        "hand": null
       },
       "flavour": "Sweet dreams.",
       "image": "res/card/art/illustration/Somnomalum.png"
@@ -109,8 +109,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
-        "passive": null
+        "cast": "Target willing character ceases to exist for up to 1 hour. They return to the last spot they existed in afterwards.",
+        "hand": null
       },
       "flavour": "\"Have a vision. It is the ability to see the invisible. If you can see the invisible, you can achieve the impossible.\" - Byron Fex, Blind Monk",
       "image": "res/card/art/illustration/Disappear.png"
@@ -122,8 +122,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Target NPC becomes tired.",
-        "passive": null
+        "cast": "Target NPC becomes tired.",
+        "hand": null
       },
       "flavour": "\"Perseverance is the hard work you do after you get tired of doing the hard work you already did.\"  - Gregor the Delegator",
       "image": "res/card/art/illustration/Exhaust.png"
@@ -135,8 +135,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like",
-        "passive": null
+        "cast": "Choose X up to 5. A boundary, impenetrable from within, is placed X metres away from you in all directions as long as you'd like",
+        "hand": null
       },
       "flavour": "\"Don't spend time beating on a wall, hoping to transform it into a door.\" - Gredge Putley, Future Pickaxe Owner",
       "image": "res/card/art/illustration/Prison.png"
@@ -148,8 +148,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
-        "passive": null
+        "cast": "Target a doorway. The next living creature to pass through the door remains stuck in the frame until they take damage.",
+        "hand": null
       },
       "flavour": "\"You make a better door than a window\" - Jimmy Paxton, Obstructed Individual",
       "image": "res/card/art/illustration/Porticostatic Hex.png"
@@ -161,8 +161,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
-        "passive": null
+        "cast": "Stand atop an object. You and the object are flung in the direction of your choice until obstructed.",
+        "hand": null
       },
       "flavour": "You'd have gotten off on the wrong foot with whoever set off on the journey of a thousand steps.",
       "image": "res/card/art/illustration/Object Eject.png"
@@ -174,8 +174,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
-        "passive": null
+        "cast": "Flip a coin in place of your next roll. Heads for a critical success, tails for a critical failure.",
+        "hand": null
       },
       "flavour": "\"I will never abide by absolutes\" - Leopold the Oppugnant",
       "image": "res/card/art/illustration/The Ultimatum.png"
@@ -187,8 +187,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Learn the current location of an item you've touched in the past.",
-        "passive": null
+        "cast": "Learn the current location of an item you've touched in the past.",
+        "hand": null
       },
       "flavour": "At last, the location of the missing socks.",
       "image": "res/card/art/illustration/Where-Ware Charm.png"
@@ -200,8 +200,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
-        "passive": null
+        "cast": "The ground shakes beneath you. All characters within 4 metres are knocked airborne.",
+        "hand": null
       },
       "flavour": "Not suitable for tectonic fault zones.",
       "image": "res/card/art/illustration/Groundburst.png"
@@ -213,8 +213,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Attacks deal double damage until you play your next card.",
-        "passive": null
+        "cast": "Attacks deal double damage until you play your next card.",
+        "hand": null
       },
       "flavour": "I'm not unarmed, I've got two of them.",
       "image": "res/card/art/illustration/Bashbolster.png"
@@ -226,8 +226,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
-        "passive": null
+        "cast": "Flip a coin. Heads: Deal 15 damage to visible target. Tails: Gun backfires, take 5 damage.",
+        "hand": null
       },
       "flavour": "To get you out of a tight spot, like a colonial insurrection or a duel.",
       "image": "res/card/art/illustration/Musty Musket.png"
@@ -239,8 +239,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
-        "passive": null
+        "cast": "Choose a 4 square metre area to fill temporarily with an opaque smoke",
+        "hand": null
       },
       "flavour": "Mildly anoxic.",
       "image": "res/card/art/illustration/Smoke Bomb.png"
@@ -252,8 +252,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
-        "passive": null
+        "cast": "Pick a point on the floor up to 2 metres away. The next NPC to walk there will fall over.",
+        "hand": null
       },
       "flavour": "Nothing like a little prop humour.",
       "image": "res/card/art/illustration/Banana Peel.png"
@@ -265,8 +265,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
-        "passive": null
+        "cast": "Possess a non-magic object within 5 tiles of your body until you lose concentration.",
+        "hand": null
       },
       "flavour": "\"There's something rather... lively, about this chair\" - General Kudzo",
       "image": "res/card/art/illustration/Poltergeist.png"
@@ -278,8 +278,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
-        "passive": null
+        "cast": "Evoke a disembodied hand to perform a simple action within 4 metres of you.",
+        "hand": null
       },
       "flavour": "Give me five!",
       "image": "res/card/art/illustration/Eidolimb.png"
@@ -291,8 +291,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
-        "passive": null
+        "cast": "Choose two visible points. You will be alerted the next time an NPC walks between them.",
+        "hand": null
       },
       "flavour": "Mob hideouts are often mysteriously empty when the Cops arrive to perform arrests",
       "image": "res/card/art/illustration/Tripwire Charm.png"
@@ -304,8 +304,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Fire a cannonball at a target of your choice.",
-        "passive": null
+        "cast": "Fire a cannonball at a target of your choice.",
+        "hand": null
       },
       "flavour": "Cannonballs were designed to destroy ships and stone fortresses. The effect they have on the human body is unspeakable.",
       "image": "res/card/art/illustration/Spectreblast.png"
@@ -317,8 +317,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Apply a sandwich to the face of a visible character.",
-        "passive": null
+        "cast": "Apply a sandwich to the face of a visible character.",
+        "hand": null
       },
       "flavour": "After taking a sandwich to the face from one of his men, Colonel Kudzo was forced to retire, effective immediately",
       "image": "res/card/art/illustration/PBJT.png"
@@ -330,8 +330,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Choose an NPC. They are stuck in place for ten seconds.",
-        "passive": null
+        "cast": "Choose an NPC. They are stuck in place for ten seconds.",
+        "hand": null
       },
       "flavour": "Have my legs always been this heavy?",
       "image": "res/card/art/illustration/Locomotor Hex.png"
@@ -343,8 +343,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Cover an object in a thin layer of ice.",
-        "passive": null
+        "cast": "Cover an object in a thin layer of ice.",
+        "hand": null
       },
       "flavour": "Whoa, chill.",
       "image": "res/card/art/illustration/Rime.png"
@@ -356,8 +356,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Burst into flames along with anyone you're touching. 3d6 damage to each of you.",
-        "passive": null
+        "cast": "Burst into flames along with anyone you're touching. 3d6 damage to each of you.",
+        "hand": null
       },
       "flavour": "I'm taking you straight to hell.",
       "image": "res/card/art/illustration/Akindle.png"
@@ -369,8 +369,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
-        "passive": null
+        "cast": "Touch an NPC to freeze both of you. Until your hand is removed, neither of you can attack or perform actions",
+        "hand": null
       },
       "flavour": "Let's savour this moment forever.",
       "image": "res/card/art/illustration/Glacial Hand.png"
@@ -382,8 +382,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Summon a pigeon to perform a simple task",
-        "passive": null
+        "cast": "Summon a pigeon to perform a simple task",
+        "hand": null
       },
       "flavour": "He will try his best not to be distracted by breadcrumbs.",
       "image": "res/card/art/illustration/Pigeon Partner.png"
@@ -395,8 +395,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Deal d6 bonus melee damage, igniting the target.",
-        "passive": null
+        "cast": "Deal d6 bonus melee damage, igniting the target.",
+        "hand": null
       },
       "flavour": "\"I'm about to turn your Kitchen Dream into a Kitchen Nightmare\" - Diner Employee Sr.",
       "image": "res/card/art/illustration/Gloven Mitt.png"

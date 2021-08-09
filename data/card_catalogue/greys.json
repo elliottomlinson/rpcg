@@ -5,8 +5,8 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Increase the result of a roll by 1.",
-        "passive": null
+        "cast": "Increase the result of a roll by 1.",
+        "hand": null
       },
       "flavour": "The collective will of the people made manifest.",
       "image": "res/card/art/illustration/Boost.png"
@@ -18,8 +18,8 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Move a metre.",
-        "passive": null
+        "cast": "Move a metre.",
+        "hand": null
       },
       "flavour": "When speed gets in the blood, one must move to live.",
       "image": "res/card/art/illustration/Shift.png"
@@ -31,8 +31,8 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Decrease the result of a roll by 1.",
-        "passive": null
+        "cast": "Decrease the result of a roll by 1.",
+        "hand": null
       },
       "flavour": "The collective will of the people made manifest.",
       "image": "res/card/art/illustration/Fluster.png"
@@ -44,8 +44,8 @@
     "tier": "grey",
     "details": {
       "rules": {
-        "active": "Push or pull a visible object slightly.",
-        "passive": null
+        "cast": "Push or pull a visible object slightly.",
+        "hand": null
       },
       "flavour": "Human force extends far past the limits of an earthly body.",
       "image": "res/card/art/illustration/Force.png"

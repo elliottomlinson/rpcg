@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Swap the flavours of two objects within your reach.",
-        "passive": null
+        "cast": "Swap the flavours of two objects within your reach.",
+        "hand": null
       },
       "flavour": "Mmm, Crayons",
       "image": "res/card/art/illustration/Spice Rack.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
-        "passive": null
+        "cast": "Summon a brick of Ambrosia. Any NPC who has tasted or smelt it before will find it irresistible.",
+        "hand": null
       },
       "flavour": "Lifelong Ambrosia addicts scuttle around gourmet kitchens like rats, hoping to find tiny scraps.",
       "image": "res/card/art/illustration/Ambrosia.png"

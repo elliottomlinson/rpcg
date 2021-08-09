@@ -160,9 +160,9 @@ module Card
         case rules
         when Card::Models::SimpleRules
           rules.text
-        when Card::Models::PassiveActiveRules
-          "✋: #{rules.passive}
-⚡: #{rules.active}"
+        when Card::Models::HandCastRules
+          "✋: #{rules.hand}
+⚡: #{rules.cast}"
         else
           raise "Unsupported rule type #{rules.class}"
         end

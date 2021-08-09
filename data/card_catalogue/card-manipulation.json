@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active":"Draw 2 blues. Cast both.",
-        "passive": null
+        "cast":"Draw 2 blues. Cast both.",
+        "hand": null
       },
       "flavour": "Live by the luck of the draw.",
       "image": "res/card/art/illustration/Wing It.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active":"Draw 2 greens. Cast both.",
-        "passive": null
+        "cast":"Draw 2 greens. Cast both.",
+        "hand": null
       },
       "flavour": "You never know what he'll pull out of thin air.",
       "image": "res/card/art/illustration/Brainstorm.png"
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active":"Draw 2 reds. Cast both.",
-        "passive": null
+        "cast":"Draw 2 reds. Cast both.",
+        "hand": null
       },
       "flavour": "I've got an idea...",
       "image": "res/card/art/illustration/Spark of Inspiration.png"
@@ -44,8 +44,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Draw 2 golds. Cast both.",
-        "passive": null
+        "cast": "Draw 2 golds. Cast both.",
+        "hand": null
       },
       "flavour": "I don't know what I want, but I do want a lot of it.",
       "image": "res/card/art/illustration/Randomize.png"
@@ -57,8 +57,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 6 greys.",
-        "passive": null
+        "cast": "Draw 6 greys.",
+        "hand": null
       },
       "flavour": "Oh man, I've really Grobbled this one.",
       "image": "res/card/art/illustration/Grobble.png"
@@ -70,8 +70,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
-        "passive": null
+        "cast": "Draw 10 blues, face-up. Cast up to 8 and discard the rest.",
+        "hand": null
       },
       "flavour": "What we lack in quality we've made up with quantity.",
       "image": "res/card/art/illustration/Slipshod Sorcery.png"
@@ -83,8 +83,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active":"Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest.",
-        "passive": null
+        "cast":"Draw 5 cards of each rarity, face-up. Cast one of each rarity and discard the rest.",
+        "hand": null
       },
       "flavour": "The greatest plans begin with simple tactics.",
       "image": "res/card/art/illustration/Spectrum Dance.png"
@@ -96,8 +96,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last blue cast by any character.",
-        "passive": null
+        "cast": "Copy the effect of the last blue cast by any character.",
+        "hand": null
       },
       "flavour": "This is how stupid you look, watch this.",
       "image": "res/card/art/illustration/Imitate.png"
@@ -109,8 +109,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last green cast by any character.",
-        "passive": null
+        "cast": "Copy the effect of the last green cast by any character.",
+        "hand": null
       },
       "flavour": "Stop copying me. Stop copying me.",
       "image": "res/card/art/illustration/Copy.png"
@@ -122,8 +122,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Copy the effect of the last red cast by any character.",
-        "passive": null
+        "cast": "Copy the effect of the last red cast by any character.",
+        "hand": null
       },
       "flavour": "“Through others we become ourselves.” ― Mad Dog Millson, Revered Pirate and Thief",
       "image": "res/card/art/illustration/Master Mimic.png"
@@ -135,8 +135,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Return a blue you've cast to your hand.",
-        "passive": null
+        "cast": "Return a blue you've cast to your hand.",
+        "hand": null
       },
       "flavour": "Don't retreat, reload.",
       "image": "res/card/art/illustration/Reload.png"
@@ -148,8 +148,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Return a green you've cast to your hand.",
-        "passive": null
+        "cast": "Return a green you've cast to your hand.",
+        "hand": null
       },
       "flavour": "Wanna see me do it again?",
       "image": "res/card/art/illustration/Tactical Reload.png"
@@ -161,8 +161,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Return a red you've cast to your hand.",
-        "passive": null
+        "cast": "Return a red you've cast to your hand.",
+        "hand": null
       },
       "flavour": "Cowboys only load up 5 of the 6 bullet chambers. In the 6th chamber, they leave a hundred dollar bill to pay the undertaker.",
       "image": "res/card/art/illustration/Cowboy Reload.png"
@@ -174,8 +174,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 greys.",
-        "passive": null
+        "cast": "Draw 3 greys.",
+        "hand": null
       },
       "flavour": "Now, what do we have here...",
       "image": "res/card/art/illustration/Adlib.png"
@@ -187,8 +187,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 5 blues, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 5 blues, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "You criticize, I improvise",
       "image": "res/card/art/illustration/Improvise.png"
@@ -200,8 +200,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 5 greens, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "People will forget what you said, people will forget what you did, but people will never forget when you pulled out a fish in a fistfight.",
       "image": "res/card/art/illustration/Extemporize.png"
@@ -213,8 +213,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Draw 5 reds, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 5 reds, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "Say goodbye to the rails, script, chain, wall, cuff, and beaten path.",
       "image": "res/card/art/illustration/Helter-Skelter.png"
@@ -226,8 +226,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Draw 3 greens, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 greens, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "No more of this bush-league nonsense. We need some real power.",
       "image": "res/card/art/illustration/Four-Leaf Clover.png"
@@ -239,8 +239,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Draw 3 reds, face-up. Cast up to 3 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 reds, face-up. Cast up to 3 and discard the rest.",
+        "hand": null
       },
       "flavour": "I might be able to pull it off - but just this once.",
       "image": "res/card/art/illustration/Rabbit's Foot.png"
@@ -252,8 +252,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
-        "passive": null
+        "cast": "Draw 3 greens, face-up. Cast 1 and discard the rest.",
+        "hand": null
       },
       "flavour": "Do you believe in miracles?",
       "image": "res/card/art/illustration/Jackpot.png"

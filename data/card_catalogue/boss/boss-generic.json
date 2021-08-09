@@ -5,8 +5,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
-        "passive": null
+        "cast": "Cast this card only during your turn. At the start of your next turn, teleport to safety and leave behind a piece of valuable loot.",
+        "hand": null
       },
       "flavour": "See you next fall!",
       "image": "res/card/art/illustration/I've Had Enough.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
-        "passive": null
+        "cast": "At the start of your turn during combat, return all blues you've cast this session to your hand.",
+        "hand": null
       },
       "flavour": "You've got nice moves, but you won't be able to keep up for long.",
       "image": "res/card/art/illustration/Attrition.png"
@@ -31,8 +31,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Move any number of allied NPCs out of combat.",
-        "passive": null
+        "cast": "Move any number of allied NPCs out of combat.",
+        "hand": null
       },
       "flavour": "Let's make some space- this is about to get rowdy.",
       "image": "res/card/art/illustration/Take it Outside.png"

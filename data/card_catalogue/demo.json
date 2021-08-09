@@ -8,8 +8,8 @@
         "tier": "blue",
         "details": {
           "rules": {
-            "active": "Oh no",
-            "passive": null
+            "cast": "Oh no",
+            "hand": null
           },
           "flavour": "Darn",
           "image": "res/card/art/illustration/Inner Sun.png"
@@ -20,8 +20,8 @@
         "tier": "green",
         "details": {
           "rules": {
-            "active": "Sacrifice your life. Kill an NPC who you've met.",
-            "passive": null
+            "cast": "Sacrifice your life. Kill an NPC who you've met.",
+            "hand": null
           },
           "flavour": "\"My hatred for you makes the sun rise. Without it, I am nothing.\" - Final Words of Fester the Limp",
           "image": "res/card/art/illustration/Inner Sun.png"
@@ -35,8 +35,8 @@
     "draft": true,
     "details": {
       "rules": {
-        "active": "Stun an NPC for a turn",
-        "passive": null
+        "cast": "Stun an NPC for a turn",
+        "hand": null
       },
       "flavour": "The sweet smell of bathtub toast."
     }
@@ -46,8 +46,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "Stun an NPC for two turns",
-        "passive": null
+        "cast": "Stun an NPC for two turns",
+        "hand": null
       },
       "flavour": "Human beings are basically just big potato batteries.",
       "image": "res/card/art/illustration/Inner Sun.png"
@@ -59,8 +59,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Target NPC will love you from now on",
-        "passive": "Everybody hates you"
+        "cast": "Target NPC will love you from now on",
+        "hand": "Everybody hates you"
       },
       "flavour": "Nobody knew what he saw in her",
       "image": "res/card/art/illustration/Bean Blast.png"

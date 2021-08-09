@@ -5,8 +5,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Turn into a rodent for as long as you want.",
-        "passive": "You hold influence over members of Order Rodentia."
+        "cast": "Turn into a rodent for as long as you want.",
+        "hand": "You hold influence over members of Order Rodentia."
       },
       "flavour": "Sometimes the smallest things take up the most room in your heart",
       "image": "res/card/art/illustration/Rodent Whisperer.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Become a small hummingbird for as long as you want.",
-        "passive": "You can speak to birds."
+        "cast": "Become a small hummingbird for as long as you want.",
+        "hand": "You can speak to birds."
       },
       "flavour": "Birds never fail to see the forest from the trees",
       "image": "res/card/art/illustration/Avian Spirit.png"
@@ -31,8 +31,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Pick a small animal or insect for your target to be swarmed by.",
-        "passive": "You are constantly covered in an insect of your choice"
+        "cast": "Pick a small animal or insect for your target to be swarmed by.",
+        "hand": "You are constantly covered in an insect of your choice"
       },
       "flavour": "The sky went dark, and all sound was drowned out by the hum of their arrival.",
       "image": "res/card/art/illustration/Swarm.png"
@@ -44,8 +44,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Disable a visible machine until it is repaired.",
-        "passive": "Machines fear you."
+        "cast": "Disable a visible machine until it is repaired.",
+        "hand": "Machines fear you."
       },
       "flavour": "Yeah I'm into tech, into smashing it up that is",
       "image": "res/card/art/illustration/Ouphe's Aura.png"
@@ -57,8 +57,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon a trusty steed.",
-        "passive": "You can tame anything you can ride."
+        "cast": "Summon a trusty steed.",
+        "hand": "You can tame anything you can ride."
       },
       "flavour": "Man was destined to tame the world.",
       "image": "res/card/art/illustration/Equestrian.png"

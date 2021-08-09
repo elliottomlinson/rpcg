@@ -5,8 +5,8 @@
     "tier": "blue",
     "details": {
       "rules": {
-        "active": "A visible NPC is forced to think positive thoughts.",
-        "passive": null
+        "cast": "A visible NPC is forced to think positive thoughts.",
+        "hand": null
       },
       "flavour": "\"You see a distant obstacle, I see an upcoming opportunity\" - Diggory the Myopic",
       "image": "res/card/art/illustration/Positivity.png"
@@ -18,8 +18,8 @@
     "tier": "green",
     "details": {
       "rules": {
-	      "active": "A visible character is forced to stop what they're doing and discuss their feelings with you.",
-	      "passive": "Whenever you make an attack, you can choose whether or not it will deal damage."
+	      "cast": "A visible character is forced to stop what they're doing and discuss their feelings with you.",
+	      "hand": "Whenever you make an attack, you can choose whether or not it will deal damage."
       },
       "flavour": "\"I guess, in a way, I've just been trying to impress my old man this whole time\" - Brutus the Bloody Impaler",
       "image": "res/card/art/illustration/Talk it Out.png"
@@ -31,8 +31,8 @@
     "tier": "red",
     "details": {
       "rules": {
-        "active": "For one minute, NPCs will not become hostile unless they take damage.",
-        "passive": null
+        "cast": "For one minute, NPCs will not become hostile unless they take damage.",
+        "hand": null
       },
       "flavour": "\"There goes Swift Sammy, taking money out of our vault again. What a great guy.\" - Regis, Imminently-Unemployed Security Guard",
       "image": "res/card/art/illustration/Timeout.png"
@@ -44,8 +44,8 @@
     "tier": "gold",
     "details": {
       "rules": {
-        "active": "Name an NPC. They will dedicate their lives to promoting peace.",
-        "passive": null
+        "cast": "Name an NPC. They will dedicate their lives to promoting peace.",
+        "hand": null
       },
       "flavour": "All life is precious, even the lives of your enemies",
       "image": "res/card/art/illustration/Change of Heart.png"
@@ -57,8 +57,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Name a character who has wronged you. They feel remorse for what they have done.",
-        "passive": null
+        "cast": "Name a character who has wronged you. They feel remorse for what they have done.",
+        "hand": null
       },
       "flavour": "\"And that was the second time Randy forgot about my birthday\" - Pete the Petty",
       "image": "res/card/art/illustration/Rue the Day.png"
@@ -70,8 +70,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Disappear for as long as you remain perfectly still.",
-        "passive": "Deal double damage while out of combat."
+        "cast": "Disappear for as long as you remain perfectly still.",
+        "hand": "Deal double damage while out of combat."
       },
       "flavour": "Most battles are over before they've even begun",
       "image": "res/card/art/illustration/Shadow Strike.png"
@@ -83,8 +83,8 @@
     "tier": "green",
     "details": {
       "rules": {
-        "active": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
-        "passive": "Triple advantage on all d20 rolls when below 5 health."
+        "cast": "Summon one of the following items: a knife, 5 feet of rope, a match, or a bottle of water.",
+        "hand": "Triple advantage on all d20 rolls when below 5 health."
       },
       "flavour": "The key to survival is flexibility and urgency",
       "image": "res/card/art/illustration/Survival Instincts.png"
