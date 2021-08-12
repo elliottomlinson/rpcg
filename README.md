@@ -1,6 +1,6 @@
 # [cardmaster.io](https://cardmaster.io)
 
-The website for [cardmaster](https://github.com/elliottomlinson/cardmaster), a tabletop role-playing game.
+The website for [Cardmaster](https://github.com/elliottomlinson/cardmaster), a tabletop role-playing game.
 
 [![site status](https://img.shields.io/website/http/cardmaster.io)](https://cardmaster.io)
 
