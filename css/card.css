@@ -1,8 +1,8 @@
 
 .card {
   background-color: transparent;
-  width: 400px;
-  height: 565px;
+  width: 350px;
+  height: 480px;
   margin: 10% auto;
   perspective: 5000px;
 }
