@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Karmatic Arcade', monospace;
-  src: url(font/ka1.tff) format('ttf'),
+  src: url(font/ka1.ttf) format('ttf'),
 }
 
 @font-face {
   font-family: 'Segoe UI Semibold', normal;
-  src: url(font/seguisb.tff) format('ttf'),
+  src: url(../font/seguisb.tff) format('ttf'),
 }
 
 @font-face {
   font-family: 'EB Garamond', normal;
-  src: url(font/EBGaramond-VariableFont_wght.ttf) format('ttf'),
+  src: url(../font/EBGaramond-VariableFont_wght.ttf) format('ttf'),
 }
 
 .card {
@@ -64,6 +64,11 @@
   height: 76px;
 }
 
+.title-text {
+  position: relative;
+  top: 10px;
+}
+
 .illustration {
   background-image: url("../../../../res/art/illustration/Jump.png");
   z-index: 1;
@@ -86,6 +91,13 @@
   height: 44px;
 }
 
+.type-text {
+  position: absolute;
+  width: 558px;
+  top: 8px;
+  left: 185px;
+}
+
 .rules {
   font-family: 'Segoe UI Semibold';
   font-size: 20pt;
@@ -97,8 +109,25 @@
   height: 292px;
 }
 
-.flavour {
+.rules-text {
+  position: relative;
+  left: 20px;
+  top: 30px;
+  width: 628px;
+  height: 242px;
+}
 
+.active {
+  margin-bottom: 10px;
+}
+
+.passive {
+  margin-bottom: 10px;
+}
+
+.flavour {
+  position: absolute;
+  bottom: 0px;
 }
 
 .meta {
