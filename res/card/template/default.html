@@ -7,14 +7,32 @@
   <link rel="stylesheet" href="css/card.css">
 </head>
 
+<!-- https://stackoverflow.com/questions/687998/auto-size-dynamic-text-to-fill-fixed-size-container -->
+<script type="text/javascript">
+  window.onload=function shrink()
+  {
+      textSpan = document.getElementById("title-text")
+      textDiv = document.getElementById("title")
+      
+      textSpan.style.fontSize = "36pt"
+
+      while(textSpan.offsetHeight > textDiv.offsetHeight)
+      {
+          updated_font_size = parseInt(textSpan.style.fontSize) - 1
+          textSpan.style.fontSize = updated_font_size + "pt";
+      }
+  }
+</script>
+
+
 <body>
   <div class="card">
       <div class="tier"></div>
       <div class="border"></div>
       <div class="frame"></div>
-      <div class="title">
-        <div class="title-text">
-          JUMP
+      <div class="title" id="title">
+        <div class="title-text vertical-center" id="title-text">
+          SUPER PLASMA LASER BEAM ULTRA CANNON DELUXE VII
         </div>
       </div>
       <div class="illustration"></div>

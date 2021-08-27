@@ -51,10 +51,7 @@
 }
 
 .title {
-  font-family: 'Karmatic Arcade';
-  font-size: 36pt;
   z-index: 6;
-  text-align: center;
   background-image: url("../../../../res/art/title/blue.png");
   z-index: 2;
   position: absolute;
@@ -62,11 +59,22 @@
   top: 74px;
   width: 668px;
   height: 76px;
+  text-align: center;
+}
+
+/* https://www.w3schools.com/howto/howto_css_center-vertical.asp */
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .title-text {
-  position: relative;
-  top: 10px;
+  font-family: 'Karmatic Arcade';
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .illustration {
